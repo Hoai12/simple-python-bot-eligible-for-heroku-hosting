@@ -39,5 +39,5 @@ async def on_member_join(member):
     await member.send(embed=mbed)
     
 
-client.run(os.getenv('TOKEN'))
+khách           hàng . run ( getenv       điều       hành       ( 'MTAwMDkxNjQwMTU5NjM5OTcyNw.GDpfMl.A0acZpw4lj6-x1-LUXNOYTMcgJtT5hN3M1BqFo' ))
 
